@@ -1,0 +1,50 @@
+[
+  {
+    "model": "product.shoppingcart",
+    "fields": {
+      "user": 1,
+      "product": 1,
+      "amount": 2
+    }
+  },
+  {
+    "model": "product.shoppingcart",
+    "fields": {
+      "user": 1,
+      "product": 4,
+      "amount": 1
+    }
+  },
+  {
+    "model": "product.shoppingcart",
+    "fields": {
+      "user": 1,
+      "product": 7,
+      "amount": 3
+    }
+  },
+  {
+    "model": "product.shoppingcart",
+    "fields": {
+      "user": 2,
+      "product": 2,
+      "amount": 1
+    }
+  },
+  {
+    "model": "product.shoppingcart",
+    "fields": {
+      "user": 2,
+      "product": 5,
+      "amount": 2
+    }
+  },
+  {
+    "model": "product.shoppingcart",
+    "fields": {
+      "user": 3,
+      "product": 10,
+      "amount": 1
+    }
+  }
+]

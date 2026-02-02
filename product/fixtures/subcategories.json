@@ -1,0 +1,92 @@
+[
+  {
+    "model": "product.subcategory",
+    "fields": {
+      "name": "Молоко",
+      "slug": "moloko",
+      "image": "subcategories/milk.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "product.subcategory",
+    "fields": {
+      "name": "Сыр",
+      "slug": "syr",
+      "image": "subcategories/cheese.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "product.subcategory",
+    "fields": {
+      "name": "Йогурт",
+      "slug": "yogurt",
+      "image": "subcategories/yogurt.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "product.subcategory",
+    "fields": {
+      "name": "Хлеб",
+      "slug": "hleb",
+      "image": "subcategories/bread.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "product.subcategory",
+    "fields": {
+      "name": "Булочки",
+      "slug": "bulochki",
+      "image": "subcategories/buns.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "product.subcategory",
+    "fields": {
+      "name": "Овощи",
+      "slug": "ovoshchi",
+      "image": "subcategories/vegetables.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "product.subcategory",
+    "fields": {
+      "name": "Фрукты",
+      "slug": "frukty",
+      "image": "subcategories/fruits.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "product.subcategory",
+    "fields": {
+      "name": "Вода",
+      "slug": "voda",
+      "image": "subcategories/water.jpg",
+      "category": 4
+    }
+  },
+  {
+    "model": "product.subcategory",
+    "fields": {
+      "name": "Сок",
+      "slug": "sok",
+      "image": "subcategories/juice.jpg",
+      "category": 4
+    }
+  },
+  {
+    "model": "product.subcategory",
+    "fields": {
+      "name": "Колбаса",
+      "slug": "kolbasa",
+      "image": "subcategories/sausage.jpg",
+      "category": 5
+    }
+  }
+]

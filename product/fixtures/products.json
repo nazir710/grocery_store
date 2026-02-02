@@ -1,0 +1,134 @@
+[
+  {
+    "model": "product.product",
+    "fields": {
+      "name": "Молоко Простоквашино 3.2%",
+      "slug": "moloko-prostokvashino-3-2",
+      "image": "products/milk-prostokvashino.jpg",
+      "price": 85.50,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "product.product",
+    "fields": {
+      "name": "Сыр Российский",
+      "slug": "syr-rossiyskiy",
+      "image": "products/cheese-russian.jpg",
+      "price": 450.00,
+      "category": 1,
+      "subcategory": 2
+    }
+  },
+  {
+    "model": "product.product",
+    "fields": {
+      "name": "Йогурт Активия натуральный",
+      "slug": "yogurt-aktivya-naturalnyy",
+      "image": "products/yogurt-activia.jpg",
+      "price": 65.00,
+      "category": 1,
+      "subcategory": 3
+    }
+  },
+  {
+    "model": "product.product",
+    "fields": {
+      "name": "Хлеб Бородинский",
+      "slug": "hleb-borodinskiy",
+      "image": "products/bread-borodinsky.jpg",
+      "price": 55.00,
+      "category": 2,
+      "subcategory": 4
+    }
+  },
+  {
+    "model": "product.product",
+    "fields": {
+      "name": "Булочка с маком",
+      "slug": "bulochka-s-makom",
+      "image": "products/bun-with-poppy.jpg",
+      "price": 35.00,
+      "category": 2,
+      "subcategory": 5
+    }
+  },
+  {
+    "model": "product.product",
+    "fields": {
+      "name": "Помидоры",
+      "slug": "pomidory",
+      "image": "products/tomatoes.jpg",
+      "price": 120.00,
+      "category": 3,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "product.product",
+    "fields": {
+      "name": "Яблоки Голден",
+      "slug": "yabloki-golden",
+      "image": "products/apples-golden.jpg",
+      "price": 95.00,
+      "category": 3,
+      "subcategory": 7
+    }
+  },
+  {
+    "model": "product.product",
+    "fields": {
+      "name": "Вода Боржоми",
+      "slug": "voda-borzhomi",
+      "image": "products/water-borzhomi.jpg",
+      "price": 110.00,
+      "category": 4,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "product.product",
+    "fields": {
+      "name": "Сок Добрый апельсиновый",
+      "slug": "sok-dobryy-apelsinovyy",
+      "image": "products/juice-dobry.jpg",
+      "price": 90.00,
+      "category": 4,
+      "subcategory": 9
+    }
+  },
+  {
+    "model": "product.product",
+    "fields": {
+      "name": "Колбаса Докторская",
+      "slug": "kolbasa-doktorskaya",
+      "image": "products/sausage-doctorskaya.jpg",
+      "price": 380.00,
+      "category": 5,
+      "subcategory": 10
+    }
+  },
+  {
+    "model": "product.product",
+    "fields": {
+      "name": "Творог 9%",
+      "slug": "tvorog-9",
+      "image": "products/cottage-cheese.jpg",
+      "price": 75.00,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "product.product",
+    "fields": {
+      "name": "Кефир 3.2%",
+      "slug": "kefir-3-2",
+      "image": "products/kefir.jpg",
+      "price": 70.00,
+      "category": 1,
+      "subcategory": 1
+    }
+  }
+]

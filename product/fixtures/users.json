@@ -1,0 +1,47 @@
+[
+  {
+    "model": "users.myuser",
+    "fields": {
+      "password": "pbkdf2_sha256$600000$abcdefghijklmnopqrstuvwxyz$...",
+      "last_login": "2024-01-15T10:00:00Z",
+      "is_superuser": false,
+      "username": "testuser",
+      "first_name": "Иван",
+      "last_name": "Иванов",
+      "email": "ivan@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "users.myuser",
+    "fields": {
+      "password": "pbkdf2_sha256$600000$abcdefghijklmnopqrstuvwxyz$...",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "petrov",
+      "first_name": "Петр",
+      "last_name": "Петров",
+      "email": "petr@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "users.myuser",
+    "fields": {
+      "password": "pbkdf2_sha256$600000$abcdefghijklmnopqrstuvwxyz$...",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "sidorova",
+      "first_name": "Мария",
+      "last_name": "Сидорова",
+      "email": "maria@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-01T10:00:00Z"
+    }
+  }
+]

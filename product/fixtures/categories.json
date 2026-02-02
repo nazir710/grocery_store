@@ -1,0 +1,42 @@
+[
+  {
+    "model": "product.category",
+    "fields": {
+      "name": "Молочные продукты",
+      "slug": "molochnye-produkty",
+      "image": "categories/milk.jpg"
+    }
+  },
+  {
+    "model": "product.category",
+    "fields": {
+      "name": "Хлебобулочные изделия",
+      "slug": "hlebobulochnye-izdeliya",
+      "image": "categories/bread.jpg"
+    }
+  },
+  {
+    "model": "product.category",
+    "fields": {
+      "name": "Овощи и фрукты",
+      "slug": "ovoshchi-i-frukty",
+      "image": "categories/vegetables.jpg"
+    }
+  },
+  {
+    "model": "product.category",
+    "fields": {
+      "name": "Напитки",
+      "slug": "napitki",
+      "image": "categories/drinks.jpg"
+    }
+  },
+  {
+    "model": "product.category",
+    "fields": {
+      "name": "Мясные продукты",
+      "slug": "myasnye-produkty",
+      "image": "categories/meat.jpg"
+    }
+  }
+]
